@@ -1,0 +1,26 @@
+# ---- Python ----
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# ---- Virtual env ----
+venv/
+env/
+.venv/
+
+# ---- Jupyter ----
+.ipynb_checkpoints/
+
+# ---- Build/Packaging ----
+build/
+dist/
+*.spec
+
+# ---- System ----
+.DS_Store
+Thumbs.db
+
+# ---- Project specific ----
+config.json   # user config should not be committed
