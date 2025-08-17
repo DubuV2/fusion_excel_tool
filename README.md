@@ -27,3 +27,13 @@ git clone https://github.com/DubuV2/fusion_excel_tool.git
 cd fusion_excel_tool
 pip install -r requirements.txt
 python fusion_excel.py
+```
+---
+
+## Screenshots
+
+### Example run:
+![Terminal](assets/Screenshot.png)
+
+### Preview window:
+![Preview](assets/Screenshot2.png)
